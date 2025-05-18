@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX3232EIDR
+D 3-V to 5.5-V multichannel RS-232 line driver and receiver with +/-15-kV IEC ESD protection
+K
+F http://www.ti.com/lit/gpn/max3232e
+$ENDCMP
+#
+#End Doc Library

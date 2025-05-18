@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ECS3225MVQ400BSTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ECS3225MVQ400BSTR")
+        (spec "default")
+    )
+)

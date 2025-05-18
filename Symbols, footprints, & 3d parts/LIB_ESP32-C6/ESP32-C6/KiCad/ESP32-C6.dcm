@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-C6
+D QFN32 (55 mm) Package
+K
+F 
+$ENDCMP
+#
+#End Doc Library

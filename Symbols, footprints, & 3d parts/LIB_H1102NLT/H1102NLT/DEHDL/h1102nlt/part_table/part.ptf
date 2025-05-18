@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'H1102NLT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Pulse Electronics", "H1102NLT" (!) = "", "SOIC127P940X622-16N", "Small Outline Packages", "673-H1102NLT", "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/H1102NLT?qs=EKu32SdDin8JhhqpR7K10Q%3D%3D", "Audio Transformers / Signal Transformers 100BaseTX SMD NonPoE 350uH .65Ohms 1-Port", "https://productfinder.pulseeng.com/products/datasheets/H1102NL.pdf", "6.22 mm"
+END_PART
+
+END.

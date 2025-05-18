@@ -1,0 +1,9 @@
+Manufacturer=WIZnet Inc
+PartNumber=J1B1211CCD
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=3.5
+Released=2018-01-18 10:38:39
+Downloaded=2025-05-02 22:26:16
+3D=Y

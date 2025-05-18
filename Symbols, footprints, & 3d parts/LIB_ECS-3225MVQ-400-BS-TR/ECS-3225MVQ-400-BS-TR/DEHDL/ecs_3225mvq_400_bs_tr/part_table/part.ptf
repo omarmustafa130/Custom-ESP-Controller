@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ECS_3225MVQ_400_BS_TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ECS", "ECS-3225MVQ-400-BS-TR" (!) = "", "ECS3225MVQ400BSTR", "Other", "520-EC3225MVQ400BSTR", "https://www.mouser.co.uk/ProductDetail/ECS/ECS-3225MVQ-400-BS-TR?qs=i8QVZAFTkqToe%252B5p8hHaNA%3D%3D", "Standard Clock Oscillators 40.000 MHz Multi-Volt 1.6 - 3.6 V +/-50ppm -40 - +125C AEC-Q200 RoHS", "https://www.digikey.ph/en/products/detail/ecs-inc/ECS-3225MVQ-400-BS-TR/23570709?msockid=2ab7f999c9c96f4c2a13ec8dc8dd6eef", "1.2 mm"
+END_PART
+
+END.

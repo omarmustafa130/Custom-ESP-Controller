@@ -1,0 +1,16 @@
+.ECS-3225MVQ-400-BS-TR :1 ;Standard Clock Oscillators 40.000 MHz Multi-Volt 1.6 - 3.6 V +/-50ppm -40 - +125C AEC-Q200 RoHS
+ECS3225MVQ400BSTR
+*STM Y
+*NGS
+*PLB 1="TRI-STATE" 2="GND" 3="OUTPUT" 4="VDD"
+*MXP 4
+*DFN ECS-3225MVQ-400-BS-TR
+~!Mouser Part Number (520-EC3225MVQ400BSTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ECS/ECS-3225MVQ-400-BS-TR?qs=i8QVZAFTkqToe%252B5p8hHaNA%3D%3D)
+~!Manufacturer_Name (ECS)
+~!Manufacturer_Part_Number (ECS-3225MVQ-400-BS-TR)
+~!Link Datasheet (https://www.digikey.ph/en/products/detail/ecs-inc/ECS-3225MVQ-400-BS-TR/23570709?msockid=2ab7f999c9c96f4c2a13ec8dc8dd6eef)
+~!Height (1.2mm)
+~!3D_Model (ECS-3225MVQ-400-BS-TR)
+ECS-3225MVQ-400-BS-TR
+1.1!U 2.1!U 3.1!U 4.1!U 

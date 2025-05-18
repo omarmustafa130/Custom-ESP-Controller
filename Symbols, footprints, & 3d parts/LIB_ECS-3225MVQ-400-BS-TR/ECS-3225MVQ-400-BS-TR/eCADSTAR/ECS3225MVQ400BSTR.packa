@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ECS-3225MVQ-400-BS-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-09-18-02:31:06)
+    (mountForm default
+        (footprintRef "ECS3225MVQ400BSTR")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=ECS
+PartNumber=ECS-3225MVQ-400-BS-TR
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2024-09-18 02:31:06
+Downloaded=2025-04-13 00:40:06
+3D=Y

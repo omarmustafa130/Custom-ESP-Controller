@@ -1,0 +1,9 @@
+Manufacturer=Pulse Electronics
+PartNumber=H1102NLT
+PartCategory=Transformer
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=2.1
+Released=2017-12-11 10:02:07
+Downloaded=2025-04-23 23:26:42
+3D=Y

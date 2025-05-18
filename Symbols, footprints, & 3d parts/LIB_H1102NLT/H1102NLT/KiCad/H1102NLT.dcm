@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H1102NLT
+D Audio Transformers / Signal Transformers 100BaseTX SMD NonPoE 350uH .65Ohms 1-Port
+K
+F https://productfinder.pulseeng.com/products/datasheets/H1102NL.pdf
+$ENDCMP
+#
+#End Doc Library

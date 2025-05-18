@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESP32-S3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-12-25-10:17:17)
+    (mountForm default
+        (footprintRef "QFN40P700X700X90-57N-D")
+        (spec "System")
+    )
+)

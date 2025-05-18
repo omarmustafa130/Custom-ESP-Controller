@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESP32-C6"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-10-20-05:47:56)
+    (mountForm default
+        (footprintRef "QFN40P500X500X90-41N-D")
+        (spec "System")
+    )
+)
