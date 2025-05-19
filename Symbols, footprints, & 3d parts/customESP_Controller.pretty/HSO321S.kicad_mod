@@ -1,0 +1,236 @@
+(footprint "HSO321S"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "3.6mm x 2.5mm x 1mm")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "Y**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "a1eb46e6-f82b-4348-a859-cdce1e4c8599")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "HSO321S"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "dbca54e2-e989-429c-8cb8-b62369f87cf8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11365712-d9fa-4ff3-875a-29de58075d32")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ca4c9ec-85ff-4769-a79a-213c43393de1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "843e5e5b-4600-4442-b77f-85e0d7a00726")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.3 0.875)
+		(end -2.3 0.875)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8674fdd9-a68d-4003-a4a9-f54430fb556f")
+	)
+	(fp_line
+		(start -2.2 0.875)
+		(end -2.2 0.875)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90301632-093d-41df-9154-add2d86ac789")
+	)
+	(fp_arc
+		(start -2.3 0.875)
+		(mid -2.25 0.825)
+		(end -2.2 0.875)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "729e9f5e-ed93-46f8-9897-bc90059a53eb")
+	)
+	(fp_arc
+		(start -2.2 0.875)
+		(mid -2.25 0.925)
+		(end -2.3 0.875)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "56530ac4-f837-483e-bd1c-c09e2dcb9813")
+	)
+	(fp_line
+		(start -2.7 -2.35)
+		(end -2.7 2.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ab11dd1f-0bda-4b35-a9fa-ab82c2109c64")
+	)
+	(fp_line
+		(start -2.7 2.35)
+		(end 2.7 2.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8fdc1b73-9255-4ef6-a9b3-d7e7beecf88d")
+	)
+	(fp_line
+		(start 2.7 -2.35)
+		(end -2.7 -2.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ad2fa617-355e-409b-bd54-113d17e9d488")
+	)
+	(fp_line
+		(start 2.7 2.35)
+		(end 2.7 -2.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e2e1983c-1ac8-4936-83f6-684bcd7ef43d")
+	)
+	(fp_line
+		(start -1.6 -1.25)
+		(end -1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ebc74b13-c03e-4967-819e-0e001fe858be")
+	)
+	(fp_line
+		(start -1.6 1.25)
+		(end 1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5f72cb0-91e6-4fbc-90d0-36b6ce5dde4c")
+	)
+	(fp_line
+		(start 1.6 -1.25)
+		(end -1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9f1fd939-e8fc-4eef-a9fa-20891a06f1fa")
+	)
+	(fp_line
+		(start 1.6 1.25)
+		(end 1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c2325c14-3a1d-414f-a125-9ac3e775cfe7")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "6754783c-bbf5-4611-a83c-b19c99196461")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.1 0.875 90)
+		(size 0.95 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "39d5546e-e6dc-4cda-aab2-d0477c80a74b")
+	)
+	(pad "2" smd rect
+		(at 1.1 0.875 90)
+		(size 0.95 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7485fec7-d6bf-4ad2-b09a-b20ad68b6ac4")
+	)
+	(pad "3" smd rect
+		(at 1.1 -0.875 90)
+		(size 0.95 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ddf2b7c7-6aa3-4469-963b-7fc37219b790")
+	)
+	(pad "4" smd rect
+		(at -1.1 -0.875 90)
+		(size 0.95 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4737df85-3705-4c09-a94d-ad9d377a3203")
+	)
+	(model "HSO321S.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

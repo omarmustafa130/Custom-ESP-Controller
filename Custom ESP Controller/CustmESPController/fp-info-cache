@@ -1,4 +1,4 @@
-23925126816142673
+23961826325797175
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96739,6 +96739,153 @@ Varistor VF
 0
 2
 2
+customESP_Controller
+694106301002_1
+694106301002
+Connector
+0
+3
+3
+customESP_Controller
+1N4148W_SODFL3816X120N
+SOD-123F
+Diode
+0
+2
+2
+customESP_Controller
+1N5822_DIOAD3070W130L950D530
+1N5822
+Diode
+0
+2
+2
+customESP_Controller
+CP2102N_QFN50P500X500X80-29N-D
+QFN-28_3
+Integrated Circuit
+0
+29
+29
+customESP_Controller
+DIO_SS310
+
+
+0
+2
+2
+customESP_Controller
+ESP32C6WROOM1N4
+ESP32-C6-WROOM-1-N4-1_2024
+Integrated Circuit
+0
+37
+37
+customESP_Controller
+HSO321S
+3.6mm x 2.5mm x 1mm
+Crystal or Oscillator
+0
+4
+4
+customESP_Controller
+IND_NR3015T2R2M
+
+
+0
+2
+2
+customESP_Controller
+IRLML6244TRPBF_SOT95P237X112-3N
+Micro3 (SOT23)
+Transistor
+0
+3
+3
+customESP_Controller
+J1B1211CCD
+
+
+0
+14
+14
+customESP_Controller
+LESD5D5.0CT1G_DTVS
+
+
+0
+2
+2
+customESP_Controller
+LMUN2235LT1G
+LMUN2235LT1G-3
+Transistor RET NPN
+0
+3
+3
+customESP_Controller
+MAX3232EIDR_SOIC127P600X175-16N
+D (R-PDSO-G16)
+Integrated Circuit
+0
+16
+16
+customESP_Controller
+RELAY_SRD-05VDC-SL-C
+
+
+0
+5
+5
+customESP_Controller
+SL0630-330M
+
+
+0
+2
+1
+customESP_Controller
+SMAJ58A_DIOM5026X229N
+DO-214AC (SMA)_1
+TVS Diode (Uni-directional)
+0
+2
+2
+customESP_Controller
+SS8050_SOT95P240X115-3N
+SOT-23_2
+Transistor BJT NPN
+0
+3
+3
+customESP_Controller
+SY80B9AAAC_SOT95P285X140-5N
+SOT23-5
+Integrated Circuit
+0
+5
+5
+customESP_Controller
+TX4138_SOIC127P600X165-9N
+ESOIC8
+Integrated Circuit
+0
+9
+9
+customESP_Controller
+W5500_QFP50P900X900X160-48N
+W5500(1.6mm)
+Integrated Circuit
+0
+48
+48
+customESP_Controller
+WPM2015-3TR_SOT95P240X130-3N
+SOT-23
+MOSFET (P-Channel)
+0
+3
+3
 muxCapFootprintLibrary
 5992310427F
 599-2310-427F-2

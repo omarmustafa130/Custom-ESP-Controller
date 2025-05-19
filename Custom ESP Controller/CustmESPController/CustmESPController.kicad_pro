@@ -235,10 +235,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "customESP_Controller"
+    ],
     "pinned_symbol_libs": [
       "ESP32-S3",
-      "ESP_Project"
+      "ESP_Project",
+      "CustomESP"
     ]
   },
   "meta": {

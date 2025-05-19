@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MAX3232EIDR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=5.1
+Released=2017-01-12 12:59:53
+Downloaded=2025-05-18 18:30:04
+3D=Y
